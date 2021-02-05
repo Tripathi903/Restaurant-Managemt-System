@@ -1,0 +1,2 @@
+# Restaurant-Managemt-System
+Restaurant management is the profession of managing a restaurant. It includes the major function of planning, organizing, staffing, directing, developing an attitude in food and beverage control systems and to efficiently and effectively plan menus at profitable prices, taking into consideration constraints, preparation and other variables affecting food and beverage outlets.
